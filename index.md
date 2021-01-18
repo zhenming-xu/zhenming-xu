@@ -1,38 +1,85 @@
 ## Welcome to Zhenming's Pages
 
-You can use the [editor on GitHub](https://github.com/zhenming-xu/zhenming-xu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Education Background
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+	High throughput screening Li superionic conductor materials
+	First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
+	First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
+	First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
+	Theoretical design of anode materials for alkali-metal ion batteries
+	Theoretical design of magnetic and spintronic materials
+	Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education Background
+```markdown
+Nov. 2019 - Nov. 2020    Harvard University, Cambridge, Massachusetts, USA    
+                                                            Material Science, PhD visiting student
+Sep. 2017 - Jun. 2021     Shanghai Jiao Tong University, Shanghai, China                         
+                                                           PhD Degree of Mechanical Engineering
+Sep. 2014 - Jun. 2017     Central South University, Changsha, China           
+                                                           Master Degree of Metallurgical Engineering               
+Sep. 2010 - Jun. 2014     Jiangxi University of Science and Technology, Ganzhou, China            
+                                                           Bachelor Degree of Metallurgical Engineering 
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhenming-xu/zhenming-xu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Awards/Scholarships/Honors 
+
+```markdown
+	CSC Scholarship, 2019, awarded by China Scholarship Council
+	National Scholarship of Graduate, 2019, awarded by Education Ministry of China
+	National Scholarship of Graduate, 2016, awarded by Education Ministry of China
+	Excellent Master Dissertation of Hunan province, 2019
+	Excellent Master Dissertation of Central South University, 2018
+	Best Poster Presentation Award of the Second International Conference on Energy Storage Materials, Shenzhen, China, 2018
+	Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
+```
+
+
+```markdown
+Research Publications (†equal contribution, *corresponding author)
+
+During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10, with a total of 550 citations (Google Scholar). 
+
+1.	Xu. Z, Chen. X, et.al, Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Comput Mater. 2020, 6, 47. (IF = 9.34，JCR Q1)
+2.	Xu. Z, Zhu. H, Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32, 4618. (IF = 9.57，JCR Q1)
+3.	Wang. Z†, Xu. Z†, et.al, Dendrite-free and air-stable lithium metal batteries enabled by electroless plating with aluminum fluoride. J. Mater. Chem. A. 2020, 8, 9218. (co-first author，IF = 11.30，JCR Q1)
+4.	Xu. Z, Chen. X, et.al, Understanding the influences of anion charges on Li ion diffusion in a new solid-state electrolyte, Li3LaI6. Chem. Mater. 2019, 31, 7425.  (IF = 9.57，JCR Q1)
+5.	Xu. Z, Chen. R, et.al, A Li2CuPS4 superionic conductor: a new sulfide-based solid-state electrolyte. J. Mater. Chem. A. 2019, 7, 12645. (IF = 11.30，JCR Q1)
+6.	Xu. Z, Bo. S, et.al, LiCrS2 and LiMnS2 cathodes with extraordinary mixed electron−ion conductivities and favorable interfacial compatibilities with sulfide electrolyte. ACS Appl. Mater. Interfaces. 2018, 10, 36941. (IF = 8.76，JCR Q1)
+7.	Xu. Z, Zhu. H, Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. J. Phys. Chem. C. 2018, 122, 14918. (IF = 4.19，JCR Q1)
+8.	Guan. C, Lv. X*, Han. Z, Chen. C, Xu. Z*, Adsorption enhancement of graphene for fluorine and chlorine from water, Appl. Surf. Sci.  2020, 516, 146157. (co-corresponding author，IF = 6.18，JCR Q1)
+9.	Lv. X, Chen. C, Han. Z*, Guan. C, Xu. Z*, Shear Viscosities and Thermal Conductivity of NaF-AlF3 Molten Salts: A Non-Equilibrium Molecular Dynamics Study. J. Fluorine. Chem. 2021, 241, 109675. (co-corresponding author，IF = 2.33，JCR Q2)
+10.	Xu. Z, Lv. X, et.al, First principles study of adsorption and oxidation mechanism of elemental mercury by HCl over MoS2 (100) surface. Chem. Eng J. 2017, 308, 1225.  (IF = 10.65，JCR Q1)
+11.	Xu. Z, Lv. X, et.al, DFT investigation of capacious, ultrafast and highly conductive hexagonal Cr2C and V2C monolayers as anode materials for high-performance lithium-ion batteries. Phys. Chem. Chem. Phys. 2017, 19, 7807.  (IF = 3.43，JCR Q1)
+12.	Xu. Z, Lv. X, et.al, Dispersion-corrected DFT investigation on defect chemistry and potassium migration in potassium-graphite intercalation compounds for potassium ion batteries anode materials. Carbon. 2016, 107, 885. (IF = 8.82，JCR Q1)
+13.	Xu. Z, Lv. X, et.al, A promising anode material for sodium-ion battery with high capacity and high diffusion ability: graphyne and graphdiyne. RSC Adv. 2016, 6, 25594. (IF = 3.12，JCR Q1)
+14.	Lv. X(supervisor), Xu. Z, et.al, Insights into MoS2-coated LiVPO4F for lithium ion batteries: A first-principles investigation. J. Alloys Compd. 2016, 681, 253. (IF = 4.65，JCR Q1)
+15.	Lv. X(supervisor), Xu. Z, et.al, Investigation of fluorine adsorption on nitrogen doped MgAl2O4 surface by first-principles. Appl. Surf. Sci. 2016, 376, 97. (IF = 6.18, JCR Q1)
+16.	Lv. X(supervisor), Xu. Z, et.al, Molecular dynamics investigation on structural and transport properties of Na3AlF6–Al2O3 molten salt. J. Mol. Liq. 2016, 221, 26. (IF = 5.06，JCR Q1)
+17.	Lv. X(supervisor), Xu. Z, et.al, Insights into stability, electronic properties, defect properties and Li ions migration of Na, Mg and Al-doped LiVPO4F for cathode materials of lithium ion batteries: A first-principles investigation. J. Solid State Chem. 2016, 239, 228. (IF = 2.73，JCR Q2)
+18.	Lv. X(supervisor), Xu. Z, et.al, First-principles molecular dynamics investigation on Na3AlF6 molten salt. J. Fluorine. Chem. 2016, 185, 42. (IF = 2.33, JCR Q2)
+19.	Lv. X(supervisor), Xu. Z, et.al, Theoretical investigation on local structure and transport properties of NaF-AlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105. (IF = 2.46，JCR Q2)
+20.	Zheng. H, Wu. S, Tian. R, Xu. Z, Zhu. H, Duan. H, Liu. H, Intrinsic lithiophilicity of Li–garnet electrolytes enabling high‐rate lithium cycling. Adv. Funct. Mater. 2020, 30, 1906189. (IF = 16.84，JCR Q1)
+21.	Li. X, Qiao. Yu, Guo. S, Xu. Z, et.al, Direct visualization of the reversible O2−/O− redox process in Li-rich cathode materials. Adv. Mater. 2018, 1705197. (IF = 27.40，JCR Q1)
+
+```
+
+```markdown
+Participated in two international academic conferences and gave oral presentations.
+
+International conferences:
+
+1.	Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
+2.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
+3.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
+
+```
 
 ### Contact
 
 xuzhenming@sjtu.edu.cn
+
 15216105346@163.com
