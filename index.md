@@ -20,9 +20,9 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 ```markdown
 2019-2020  Harvard University, Cambridge, Massachusetts, USA    
                    Material Science, PhD visiting student
-2017-2021  Shanghai Jiao Tong University, Shanghai, China                         
+2017-2021  Shanghai Jiao Tong University(SJTU), Shanghai, China                         
                    PhD Degree of Mechanical Engineering
-2014-2017  Central South University, Changsha, China           
+2014-2017  Central South University(CSU), Changsha, China           
                    Master Degree of Metallurgical Engineering               
 2010-2014  Jiangxi University of Science and Technology, Ganzhou, China            
                    Bachelor Degree of Metallurgical Engineering 
