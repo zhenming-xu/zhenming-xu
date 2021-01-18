@@ -1,4 +1,4 @@
-## Welcome to Zhenming's Pages
+## Welcome to Zhenming's Homepages
 
 Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
