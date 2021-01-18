@@ -1,8 +1,8 @@
-## Welcome to Zhenming's Homepages
+# Welcome to Zhenming's Homepages
 
-#### Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
+## Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
-For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (molecular dynamics simulation, high-throughput calculations, data Mining, material genomics technology, machine learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
+#### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (molecular dynamics simulation, high-throughput calculations, data Mining, material genomics technology, machine learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 
 ```markdown
 High throughput screening Li superionic conductor materials
@@ -44,7 +44,7 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 
 ### Research Publications (†equal contribution, *corresponding author)
 
-During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10. 
+#### During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10. 
 
 ```markdown
 1.Xu. Z, Chen. X, et.al, Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Comput Mater. 2020, 6, 47. (IF = 9.34，JCR Q1)
