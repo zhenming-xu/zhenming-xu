@@ -33,10 +33,10 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 
 ```markdown
 2019 CSC Scholarship
-2019 National Scholarship of Graduate, 2019
-2016 National Scholarship of Graduate, 2016
-2019 Excellent Master Dissertation of Hunan province, 2019
-2018 Excellent Master Dissertation of CSU, 2018
+2019 National Scholarship of Graduate 
+2016 National Scholarship of Graduate
+2019 Excellent Master Dissertation of Hunan province
+2018 Excellent Master Dissertation of CSU
 2018 Best Poster Presentation Award of the Second International Conference on Energy Storage Materials
 2018 Graduate Excellent Scholarship of SJTU
 ```
@@ -66,22 +66,21 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 17.	Lv. X(supervisor), Xu. Z, et.al, Insights into stability, electronic properties, defect properties and Li ions migration of Na, Mg and Al-doped LiVPO4F for cathode materials of lithium ion batteries: A first-principles investigation. J. Solid State Chem. 2016, 239, 228. (IF = 2.73，JCR Q2)
 18.	Lv. X(supervisor), Xu. Z, et.al, First-principles molecular dynamics investigation on Na3AlF6 molten salt. J. Fluorine. Chem. 2016, 185, 42. (IF = 2.33, JCR Q2)
 19.	Lv. X(supervisor), Xu. Z, et.al, Theoretical investigation on local structure and transport properties of NaF-AlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105. (IF = 2.46，JCR Q2)
-20.	Zheng. H, Wu. S, Tian. R, Xu. Z, Zhu. H, Duan. H, Liu. H, Intrinsic lithiophilicity of Li–garnet electrolytes enabling high‐rate lithium cycling. Adv. Funct. Mater. 2020, 30, 1906189. (IF = 16.84，JCR Q1)
-21.	Li. X, Qiao. Yu, Guo. S, Xu. Z, et.al, Direct visualization of the reversible O2−/O− redox process in Li-rich cathode materials. Adv. Mater. 2018, 1705197. (IF = 27.40，JCR Q1)
+20. Zheng. H, Wu. S, Tian. R, Xu. Z, Zhu. H, Duan. H, Liu. H, Intrinsic lithiophilicity of Li–garnet electrolytes enabling high‐rate lithium cycling. Adv. Funct. Mater. 2020, 30, 1906189. (IF = 16.84，JCR Q1)
+21. Li. X, Qiao. Yu, Guo. S, Xu. Z, et.al, Direct visualization of the reversible O2−/O− redox process in Li-rich cathode materials. Adv. Mater. 2018, 1705197. (IF = 27.40，JCR Q1)
 ```
 
 
 ### Participated in two international academic conferences and gave oral presentations.
 
 ```markdown
-1.	Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
-2.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
-3.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
+1.Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
+2.Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
+3.Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
 ```
 
 
 ### Contact
 
 xuzhenming@sjtu.edu.cn
-
 15216105346@163.com
