@@ -71,7 +71,7 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 ```
 
 
-### Participated in two international academic conferences and gave oral presentations.
+### International academic conferences.
 
 ```markdown
 1.Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
