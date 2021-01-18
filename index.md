@@ -1,8 +1,12 @@
 ## Welcome to Zhenming's Homepages
 
+
 ### Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
 #### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (molecular dynamics simulation, high-throughput calculations, data Mining, material genomics technology, machine learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
+
+
+### Research Projects
 
 ```markdown
 High throughput screening Li superionic conductor materials
@@ -81,6 +85,7 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 
 
 ### Contact
-
+```markdown
 xuzhenming@sjtu.edu.cn  
 15216105346@163.com
+```
