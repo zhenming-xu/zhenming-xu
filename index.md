@@ -18,14 +18,14 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 ### Education Background
 
 ```markdown
-Nov. 2019 - Nov. 2020     Harvard University, Cambridge, Massachusetts, USA    
-                                                           Material Science, PhD visiting student
-Sep. 2017 - Jun. 2021     Shanghai Jiao Tong University, Shanghai, China                         
-                                                           PhD Degree of Mechanical Engineering
-Sep. 2014 - Jun. 2017     Central South University, Changsha, China           
-                                                           Master Degree of Metallurgical Engineering               
-Sep. 2010 - Jun. 2014     Jiangxi University of Science and Technology, Ganzhou, China            
-                                                           Bachelor Degree of Metallurgical Engineering 
+2019-2020  Harvard University, Cambridge, Massachusetts, USA    
+                   Material Science, PhD visiting student
+2017-2021  Shanghai Jiao Tong University, Shanghai, China                         
+                   PhD Degree of Mechanical Engineering
+2014-2017  Central South University, Changsha, China           
+                   Master Degree of Metallurgical Engineering               
+2010-2014  Jiangxi University of Science and Technology, Ganzhou, China            
+                   Bachelor Degree of Metallurgical Engineering 
 ```
 
 
@@ -68,7 +68,6 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 19.	Lv. X(supervisor), Xu. Z, et.al, Theoretical investigation on local structure and transport properties of NaF-AlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105. (IF = 2.46，JCR Q2)
 20.	Zheng. H, Wu. S, Tian. R, Xu. Z, Zhu. H, Duan. H, Liu. H, Intrinsic lithiophilicity of Li–garnet electrolytes enabling high‐rate lithium cycling. Adv. Funct. Mater. 2020, 30, 1906189. (IF = 16.84，JCR Q1)
 21.	Li. X, Qiao. Yu, Guo. S, Xu. Z, et.al, Direct visualization of the reversible O2−/O− redox process in Li-rich cathode materials. Adv. Mater. 2018, 1705197. (IF = 27.40，JCR Q1)
-
 ```
 
 
