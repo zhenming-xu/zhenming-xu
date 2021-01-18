@@ -12,19 +12,20 @@ Theoretical design of magnetic and spintronic materials
 Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
 
+
 ### Education Background
 
 ```markdown
-Nov. 2019 - Nov. 2020    Harvard University, Cambridge, Massachusetts, USA    
-                                                            Material Science, PhD visiting student
+Nov. 2019 - Nov. 2020     Harvard University, Cambridge, Massachusetts, USA    
+                                                           Material Science, PhD visiting student
 Sep. 2017 - Jun. 2021     Shanghai Jiao Tong University, Shanghai, China                         
                                                            PhD Degree of Mechanical Engineering
 Sep. 2014 - Jun. 2017     Central South University, Changsha, China           
                                                            Master Degree of Metallurgical Engineering               
 Sep. 2010 - Jun. 2014     Jiangxi University of Science and Technology, Ganzhou, China            
                                                            Bachelor Degree of Metallurgical Engineering 
-
 ```
+
 
 ### Awards/Scholarships/Honors 
 
@@ -37,7 +38,6 @@ Excellent Master Dissertation of Central South University, 2018
 Best Poster Presentation Award of the Second International Conference on Energy Storage Materials, Shenzhen, China, 2018
 Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
 ```
-
 
 
 ### Research Publications (†equal contribution, *corresponding author)
@@ -76,8 +76,8 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 1.	Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
 2.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
 3.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
-
 ```
+
 
 ### Contact
 
