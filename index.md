@@ -1,6 +1,6 @@
 ## Welcome to Zhenming's Homepages
 
-Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
+#### Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
 ```markdown
 High throughput screening Li superionic conductor materials
@@ -39,11 +39,12 @@ Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
 ```
 
 
+
+### Research Publications (†equal contribution, *corresponding author)
+
+During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10. 
+
 ```markdown
-Research Publications (†equal contribution, *corresponding author)
-
-During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10, with a total of 550 citations (Google Scholar). 
-
 1.	Xu. Z, Chen. X, et.al, Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Comput Mater. 2020, 6, 47. (IF = 9.34，JCR Q1)
 2.	Xu. Z, Zhu. H, Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32, 4618. (IF = 9.57，JCR Q1)
 3.	Wang. Z†, Xu. Z†, et.al, Dendrite-free and air-stable lithium metal batteries enabled by electroless plating with aluminum fluoride. J. Mater. Chem. A. 2020, 8, 9218. (co-first author，IF = 11.30，JCR Q1)
@@ -68,11 +69,10 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 
 ```
 
+
+### Participated in two international academic conferences and gave oral presentations.
+
 ```markdown
-Participated in two international academic conferences and gave oral presentations.
-
-International conferences:
-
 1.	Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
 2.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
 3.	Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
