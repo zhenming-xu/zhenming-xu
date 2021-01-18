@@ -3,16 +3,17 @@
 Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
 
 ```markdown
-	High throughput screening Li superionic conductor materials
-	First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
-	First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
-	First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
-	Theoretical design of anode materials for alkali-metal ion batteries
-	Theoretical design of magnetic and spintronic materials
-	Molecular dynamics simulations of structural and dynamic properties of molten salts
+High throughput screening Li superionic conductor materials
+First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
+First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
+First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
+Theoretical design of anode materials for alkali-metal ion batteries
+Theoretical design of magnetic and spintronic materials
+Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
 
 ### Education Background
+
 ```markdown
 Nov. 2019 - Nov. 2020    Harvard University, Cambridge, Massachusetts, USA    
                                                             Material Science, PhD visiting student
@@ -28,13 +29,13 @@ Sep. 2010 - Jun. 2014     Jiangxi University of Science and Technology, Ganzhou,
 ### Awards/Scholarships/Honors 
 
 ```markdown
-	CSC Scholarship, 2019, awarded by China Scholarship Council
-	National Scholarship of Graduate, 2019, awarded by Education Ministry of China
-	National Scholarship of Graduate, 2016, awarded by Education Ministry of China
-	Excellent Master Dissertation of Hunan province, 2019
-	Excellent Master Dissertation of Central South University, 2018
-	Best Poster Presentation Award of the Second International Conference on Energy Storage Materials, Shenzhen, China, 2018
-	Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
+CSC Scholarship, 2019, awarded by China Scholarship Council
+National Scholarship of Graduate, 2019, awarded by Education Ministry of China
+National Scholarship of Graduate, 2016, awarded by Education Ministry of China
+Excellent Master Dissertation of Hunan province, 2019
+Excellent Master Dissertation of Central South University, 2018
+Best Poster Presentation Award of the Second International Conference on Energy Storage Materials, Shenzhen, China, 2018
+Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
 ```
 
 
