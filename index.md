@@ -32,13 +32,13 @@ Sep. 2010 - Jun. 2014     Jiangxi University of Science and Technology, Ganzhou,
 ### Awards/Scholarships/Honors 
 
 ```markdown
-CSC Scholarship, 2019, awarded by China Scholarship Council
-National Scholarship of Graduate, 2019, awarded by Education Ministry of China
-National Scholarship of Graduate, 2016, awarded by Education Ministry of China
-Excellent Master Dissertation of Hunan province, 2019
-Excellent Master Dissertation of Central South University, 2018
-Best Poster Presentation Award of the Second International Conference on Energy Storage Materials, Shenzhen, China, 2018
-Graduate Excellent Scholarship of Shanghai Jiao Tong University, 2018
+2019 CSC Scholarship
+2019 National Scholarship of Graduate, 2019
+2016 National Scholarship of Graduate, 2016
+2019 Excellent Master Dissertation of Hunan province, 2019
+2018 Excellent Master Dissertation of CSU, 2018
+2018 Best Poster Presentation Award of the Second International Conference on Energy Storage Materials
+2018 Graduate Excellent Scholarship of SJTU
 ```
 
 
