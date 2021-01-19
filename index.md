@@ -98,7 +98,6 @@
 
 
 ### Contact
-```markdown
+
 xuzhenming@sjtu.edu.cn  
 15216105346@163.com
-```
