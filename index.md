@@ -11,7 +11,7 @@ Shanghai Jiao Tong University(SJTU)
 &nbsp;
 ### Research Interests
 
-### Researches on Computational Materials Science (**Design and Calculation for Energy, Electronic, Environmental Catalysis Related Materials**)
+### **Computational Understanding and Design of Energy, Electronic, Environmental Catalysis Related Materials**
 
 <img src="https://github.com/zhenming-xu/zhenming-xu/blob/gh-pages/Glassy-Solid-Electrolyte.png" alt="GitHub" title="GitHub" width="1000" height="528">
 
