@@ -56,27 +56,36 @@
 ### Research Publications (†equal contribution, *corresponding author)
 
 ```markdown
-1.Xu. Z, Chen. X, et.al, Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Comput Mater. 2020, 6, 47. (IF = 9.34，JCR Q1)
-2.Xu. Z, Zhu. H, Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32, 4618. (IF = 9.57，JCR Q1)
-3.Wang. Z†, Xu. Z†, et.al, Dendrite-free and air-stable lithium metal batteries enabled by electroless plating with aluminum fluoride. J. Mater. Chem. A. 2020, 8, 9218. (co-first author，IF = 11.30，JCR Q1)
-4.Xu. Z, Chen. X, et.al, Understanding the influences of anion charges on Li ion diffusion in a new solid-state electrolyte, Li3LaI6. Chem. Mater. 2019, 31, 7425.  (IF = 9.57，JCR Q1)
-5.Xu. Z, Chen. R, et.al, A Li2CuPS4 superionic conductor: a new sulfide-based solid-state electrolyte. J. Mater. Chem. A. 2019, 7, 12645. (IF = 11.30，JCR Q1)
-6.Xu. Z, Bo. S, et.al, LiCrS2 and LiMnS2 cathodes with extraordinary mixed electron−ion conductivities and favorable interfacial compatibilities with sulfide electrolyte. ACS Appl. Mater. Interfaces. 2018, 10, 36941. (IF = 8.76，JCR Q1)
-7.Xu. Z, Zhu. H, Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. J. Phys. Chem. C. 2018, 122, 14918. (IF = 4.19，JCR Q1)
-8.Guan. C, Lv. X*, Han. Z, Chen. C, Xu. Z*, Adsorption enhancement of graphene for fluorine and chlorine from water, Appl. Surf. Sci.  2020, 516, 146157. (co-corresponding author，IF = 6.18，JCR Q1)
-9.Lv. X, Chen. C, Han. Z*, Guan. C, Xu. Z*, Shear Viscosities and Thermal Conductivity of NaF-AlF3 Molten Salts: A Non-Equilibrium Molecular Dynamics Study. J. Fluorine. Chem. 2021, 241, 109675. (co-corresponding author，IF = 2.33，JCR Q2)
-10.Xu. Z, Lv. X, et.al, First principles study of adsorption and oxidation mechanism of elemental mercury by HCl over MoS2 (100) surface. Chem. Eng J. 2017, 308, 1225.  (IF = 10.65，JCR Q1)
-11.Xu. Z, Lv. X, et.al, DFT investigation of capacious, ultrafast and highly conductive hexagonal Cr2C and V2C monolayers as anode materials for high-performance lithium-ion batteries. Phys. Chem. Chem. Phys. 2017, 19, 7807.  (IF = 3.43，JCR Q1)
-12.Xu. Z, Lv. X, et.al, Dispersion-corrected DFT investigation on defect chemistry and potassium migration in potassium-graphite intercalation compounds for potassium ion batteries anode materials. Carbon. 2016, 107, 885. (IF = 8.82，JCR Q1)
-13.Xu. Z, Lv. X, et.al, A promising anode material for sodium-ion battery with high capacity and high diffusion ability: graphyne and graphdiyne. RSC Adv. 2016, 6, 25594. (IF = 3.12，JCR Q1)
-14.Lv. X, Xu. Z, et.al, Insights into MoS2-coated LiVPO4F for lithium ion batteries: A first-principles investigation. J. Alloys Compd. 2016, 681, 253. (IF = 4.65，JCR Q1)
-15.Lv. X, Xu. Z, et.al, Investigation of fluorine adsorption on nitrogen doped MgAl2O4 surface by first-principles. Appl. Surf. Sci. 2016, 376, 97. (IF = 6.18, JCR Q1)
-16.Lv. X, Xu. Z, et.al, Molecular dynamics investigation on structural and transport properties of Na3AlF6–Al2O3 molten salt. J. Mol. Liq. 2016, 221, 26. (IF = 5.06，JCR Q1)
-17.Lv. X, Xu. Z, et.al, Insights into stability, electronic properties, defect properties and Li ions migration of Na, Mg and Al-doped LiVPO4F for cathode materials of lithium ion batteries: A first-principles investigation. J. Solid State Chem. 2016, 239, 228. (IF = 2.73，JCR Q2)
-18.Lv. X, Xu. Z, et.al, First-principles molecular dynamics investigation on Na3AlF6 molten salt. J. Fluorine. Chem. 2016, 185, 42. (IF = 2.33, JCR Q2)
-19.Lv. X, Xu. Z, et.al, Theoretical investigation on local structure and transport properties of NaF-AlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105. (IF = 2.46，JCR Q2)
-20.Zheng. H, Wu. S, Tian. R, Xu. Z, Zhu. H, Duan. H, Liu. H, Intrinsic lithiophilicity of Li–garnet electrolytes enabling high‐rate lithium cycling. Adv. Funct. Mater. 2020, 30, 1906189. (IF = 16.84，JCR Q1)
-21.Li. X, Qiao. Yu, Guo. S, Xu. Z, et.al, Direct visualization of the reversible O2−/O− redox process in Li-rich cathode materials. Adv. Mater. 2018, 1705197. (IF = 27.40，JCR Q1)
+28.	Shi, X.; Xu, Z.; Han, C.; Shi, R.; Wu, X.; Lu, B.; Zhou, J.; Liang, S., Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage. Nano-Micro Letters 2021, 13 (1), 1-12.
+27.	Xu, Z.; Zhu, H., Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32 (11), 4618-4626.
+26.	Xu, Z.; Chen, X.; Chen, R.; Li, X.; Zhu, H., Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Computational Materials 2020, 6 (1), 47.
+25.	Wen, H.; He, J.; Hong, J.; Jin, S.; Xu, Z.; Zhu, H.; Liu, J.; Sha, G.; Yue, F.; Dan, Y., Efficient Er/O‐Doped Silicon Light‐Emitting Diodes at Communication Wavelength by Deep Cooling. Advanced Optical Materials 2020, 8 (18), 2000720.
+24.	Wang, Z.; Yu, J.; Rao, M.; Jin, X.; Huld, F.; Xu, Z.; Li, Y.; Lou, F.; Ye, D.; Qiu, Y., Challenges, mitigation strategies and perspectives in development of Li metal anode. Nano Select 2020, 1 (6), 622-638.
+23.	Wang, Z.; Xu, Z†.; Jin, X.; Li, J.; Ye, C.; Li, W.; Ye, D.; Lu, Y.; Qiu, Y., Dendrite-free and air-stable lithium metal batteries enabled by electroless plating with aluminum fluoride. Journal of Materials Chemistry A 2020, 8, 9218-9227.
+22.	Lv, X.; Chen, C.; Han, Z.; Guan, C.; Xu, Z*., Shear viscosities and thermal conductivity of NaF-AlF3 molten salts: A non-equilibrium molecular dynamics study. J. Fluorine Chem. 2020, 241, 109675.
+21.	Li, N.; Xu, Z.; Wang, P.; Zhang, Z.; Hong, B.; Li, J.; Lai, Y., High-rate Lithium-Sulfur Batteries Enabled via Vanadium Nitride Nanoparticle/3D Porous Graphene through Regulating the Polysulfides Transformation. Chem. Eng. J. 2020, 398 (15), 125432.
+20.	Guan, C.; Lv, X.; Han, Z.; Chen, C.; Xu, Z*.; Liu, Q., The adsorption enhancement of graphene for fluorine and chlorine from water. Appl. Surf. Sci. 2020, 146157.
+19.	Zheng, H.; Wu, S.; Tian, R.; Xu, Z.; Zhu, H.; Duan, H.; Liu, H., Intrinsic Lithiophilicity of Li–Garnet Electrolytes Enabling High‐Rate Lithium Cycling. Adv. Funct. Mater. 2019, 1906189.
+18.	Xu, Z.; Chen, X.; Liu, K.; Chen, R.; Zeng, X.; Zhu, H., Influence of anion charge on Li ion diffusion in a new solid-state electrolyte, Li3LaI6. Chem. Mater. 2019, 31 (18), 7425-7433.
+17.	Xu, Z.; Chen, R.; Zhu, H., A Li2CuPS4 superionic conductor: a new sulfide-based solid-state electrolyte. Journal of Materials Chemistry A 2019, 7 (20), 12645-12653.
+16.	Xu, Z.-M.; Bo, S.-H.; Zhu, H., LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron–Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte. ACS applied materials & interfaces 2018, 10 (43), 36941-36953.
+15.	Xu, Z.; Zhu, H., Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. The Journal of Physical Chemistry C 2018, 122 (26), 14918-14927.
+14.	Lv, X.; Han, Z.; Chen, J.; Jiang, L.; Xu, Z.; Liu, Q., First-principles molecular dynamics study of ionic structure and transport properties of LiF-NaF-AlF3 molten salt. Chem. Phys. Lett. 2018, 706, 237-242.
+13.	Li, X.; Qiao, Y.; Guo, S.; Xu, Z.; Zhu, H.; Zhang, X.; Yuan, Y.; He, P.; Ishida, M.; Zhou, H., Direct Visualization of the Reversible O2−/O− Redox Process in Li‐Rich Cathode Materials. Adv. Mater. 2018, 30 (14), 1705197.
+12.	Xu, Z.; Lv, X.; Chen, J.; Jiang, L.; Lai, Y.; Li, J., DFT investigation of capacious, ultrafast and highly conductive hexagonal Cr2C and V2C monolayers as anode materials for high-performance lithium-ion batteries. Physical Chemistry Chemical Physics 2017, 19 (11), 7807-7819.
+11.	Xu, Z.; Lv, X.; Chen, J.; Jiang, L.; Lai, Y.; Li, J., First principles study of adsorption and oxidation mechanism of elemental mercury by HCl over MoS2 (100) surface. Chem. Eng. J. 2017, 308, 1225-1232.
+10.	Li, J.; Fu, Y.; Shi, X.; Xu, Z.; Zhang, Z., Urchinlike ZnS Microspheres Decorated with Nitrogen‐Doped Carbon: A Superior Anode Material for Lithium and Sodium Storage. Chemistry–A European Journal 2017, 23 (1), 157-166.
+9.	Xu, Z.; Lv, X.; Li, J.; Chen, J.; Liu, Q., A promising anode material for sodium-ion battery with high capacity and high diffusion ability: graphyne and graphdiyne. RSC advances 2016, 6 (30), 25594-25600.
+8.	Xu, Z.; Lv, X.; Chen, J.; Jiang, L.; Lai, Y.; Li, J., Dispersion-corrected DFT investigation on defect chemistry and potassium migration in potassium-graphite intercalation compounds for potassium ion batteries anode materials. Carbon 2016, 107, 885-894.
+7.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Investigation of fluorine adsorption on nitrogen doped MgAl2O4 surface by first-principles. Appl. Surf. Sci. 2016, 376, 97-104.
+6.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., First-principles molecular dynamics investigation on Na3AlF6 molten salt. J. Fluorine Chem. 2016, 185, 42-47.
+5.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Insights into stability, electronic properties, defect properties and Li ions migration of Na, Mg and Al-doped LiVPO4F for cathode materials of lithium ion batteries: A first-principles investigation. J. Solid State Chem. 2016, 239, 228-236.
+4.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Insights into MoS2-coated LiVPO4F for lithium ion batteries: A first-principles investigation. J. Alloys Compd. 2016, 681, 253-259.
+3.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Theoretical investigation on local structure and transport properties of NaFAlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105-112.
+2.	Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Molecular dynamics investigation on structural and transport properties of Na3AlF6–Al2O3 molten salt. J. Mol. Liq. 2016, 221, 26-32.
+1.	Liu, Z.; Peng, W.; Xu, Z.; Shih, K.; Wang, J.; Wang, Z.; Lv, X.; Chen, J.; Li, X., Molybdenum Disulfide-Coated Lithium Vanadium Fluorophosphate Anode: Experiments and First-Principles Calculations. ChemSusChem 2016, 9 (16), 2122-8.
+
+
 ```
 
 
