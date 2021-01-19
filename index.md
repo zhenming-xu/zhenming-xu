@@ -79,7 +79,7 @@
 9. Xu, Z.; Lv, X.; Li, J.; Chen, J.; Liu, Q., A promising anode material for sodium-ion battery with high capacity and high diffusion ability: graphyne and graphdiyne. RSC advances 2016, 6 (30), 25594-25600.
 8. Xu, Z.; Lv, X.; Chen, J.; Jiang, L.; Lai, Y.; Li, J., Dispersion-corrected DFT investigation on defect chemistry and potassium migration in potassium-graphite intercalation compounds for potassium ion batteries anode materials. Carbon 2016, 107, 885-894.
 7. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Investigation of fluorine adsorption on nitrogen doped MgAl2O4 surface by first-principles. Appl. Surf. Sci. 2016, 376, 97-104.
-6. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., First-principles molecular dynamics investigation on Na3</sub>AlF6< molten salt. J. Fluorine Chem. 2016, 185, 42-47.
+6. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., First-principles molecular dynamics investigation on Na3AlF6 molten salt. J. Fluorine Chem. 2016, 185, 42-47.
 5. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Insights into stability, electronic properties, defect properties and Li ions migration of Na, Mg and Al-doped LiVPO4F for cathode materials of lithium ion batteries: A first-principles investigation. J. Solid State Chem. 2016, 239, 228-236.
 4. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Insights into MoS2-coated LiVPO4F for lithium ion batteries: A first-principles investigation. J. Alloys Compd. 2016, 681, 253-259.
 3. Lv, X.; Xu, Z.; Li, J.; Chen, J.; Liu, Q., Theoretical investigation on local structure and transport properties of NaF-AlF3 molten salts under electric field environment. J. Mol. Struct. 2016, 1117, 105-112.
