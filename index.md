@@ -5,7 +5,7 @@
 
 ### Researches on Computational Materials Science (Energy, Electronic, Environmental Catalysis Related Materials)
 
-<img src="https://github.com/zhenming-xu/zhenming-xu/blob/gh-pages/Glassy-Solid-Electrolyte.png" alt="GitHub" title="GitHub" width="500" height="264">
+<img src="https://github.com/zhenming-xu/zhenming-xu/blob/gh-pages/Glassy-Solid-Electrolyte.png" alt="GitHub" title="GitHub" width="1000" height="528">
 
 #### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, using the first-principles calculations based on density functional theory (DFT), combining with other advanced computational material science methods (**Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.**), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 
