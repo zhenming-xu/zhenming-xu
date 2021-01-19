@@ -1,11 +1,13 @@
 # Welcome to Zhenming's Homepages
 
+&nbsp;
 Zhenming Xu  
 Ph.D. Student  
 
 University of Michigan–Shanghai Jiao Tong University Joint Institute(UM-SJTU)   
 Shanghai Jiao Tong University(SJTU)   
 800 Dongchuan Road, Shanghai, 200240, China  
+
 &nbsp;
 ### Research Interests
 
@@ -28,6 +30,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 6. Theoretical design of spintronic materials
 7. Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
+
 &nbsp;
 ### Education Background
 
