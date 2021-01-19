@@ -1,9 +1,10 @@
 # Welcome to Zhenming's Homepages
 
-Ph.D. Student
-University of Michigan–Shanghai Jiao Tong University Joint Institute, 
-Shanghai Jiao Tong University, 
-800 Dongchuan Road, Shanghai, 200240, China
+Ph.D. Student  
+
+University of Michigan–Shanghai Jiao Tong University Joint Institute   
+Shanghai Jiao Tong University  
+800 Dongchuan Road, Shanghai, 200240, China  
 
 ### Research Interests
 
