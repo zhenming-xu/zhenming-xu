@@ -36,6 +36,7 @@
 ### Awards/Scholarships/Honors 
 
 ```markdown
+2021 Outstanding Graduate of SJTU
 2019 CSC Scholarship
 2019 National Scholarship of Graduate 
 2016 National Scholarship of Graduate
