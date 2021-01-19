@@ -91,7 +91,7 @@
 ### International Academic Conference
 
 ```markdown
-1. Xu. Z and Zhu. H, LiCrS$_{2}$ and LiMnS$_{2}$ Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
+1. Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
 2. Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
 3. Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
 ```
