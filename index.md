@@ -4,8 +4,8 @@
 Zhenming Xu  
 Ph.D. Student  
 
-University of Michigan–Shanghai Jiao Tong University Joint Institute(UM-SJTU JI)   
-Shanghai Jiao Tong University(SJTU)   
+University of Michigan–Shanghai Jiao Tong University Joint Institute (UM-SJTU JI)   
+Shanghai Jiao Tong University (SJTU)   
 800 Dongchuan Road, Shanghai, 200240, China  
 
 &nbsp;
@@ -37,9 +37,9 @@ For battery materials, environmental catalytic materials, magnetic materials and
 ```markdown
 2019-2020  Harvard University, Cambridge, Massachusetts, USA    
                    Material Science, PhD visiting student
-2017-2021  Shanghai Jiao Tong University(SJTU), Shanghai, China                         
+2017-2021  Shanghai Jiao Tong University (SJTU), Shanghai, China                         
                    PhD Degree of Mechanical Engineering
-2014-2017  Central South University(CSU), Changsha, China           
+2014-2017  Central South University (CSU), Changsha, China           
                    Master Degree of Metallurgical Engineering               
 2010-2014  Jiangxi University of Science and Technology, Ganzhou, China            
                    Bachelor Degree of Metallurgical Engineering 
@@ -50,7 +50,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 
 ```markdown
 2021 Outstanding Graduate of SJTU
-2019 China Scholarship Council(CSC) Scholarship
+2019 China Scholarship Council (CSC) Scholarship
 2019 National Scholarship of PhD Graduate Student
 2019 Excellent Master Dissertation of Hunan province
 2018 Excellent Master Dissertation of CSU
