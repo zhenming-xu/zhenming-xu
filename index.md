@@ -3,7 +3,7 @@
 
 ### Research Interests
 
-### Researches on Computational Materials Science (Energy, Electronic, Environmental Catalysis Related Materials)
+### Researches on Computational Materials Science (Design and Calculation for Energy, Electronic, Environmental Catalysis Related Materials)
 
 <img src="https://github.com/zhenming-xu/zhenming-xu/blob/gh-pages/Glassy-Solid-Electrolyte.png" alt="GitHub" title="GitHub" width="1000" height="528">
 
@@ -14,7 +14,7 @@
 
 ```markdown
 1. High throughput screening for Li superionic conductor materials
-2. High throughput screening for optimize Nd2Fe14B magnetic materials
+2. High throughput screening for optimizing Nd2Fe14B magnetic materials
 2. First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
 3. First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
 4. First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
