@@ -1,10 +1,12 @@
 ## Welcome to Zhenming's Homepages
 
+
 ### Research Interests
-### Researches on Computational Materials Science (Energy, Electronic, Environmental Catalysis Related Materials)
+
+Researches on Computational Materials Science (Energy, Electronic, Environmental Catalysis Related Materials)
 
 ```markdown
-#### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
+For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 ```
 
 ### Research Projects
