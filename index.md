@@ -1,9 +1,9 @@
 ## Welcome to Zhenming's Homepages
 
 
-### Researches on Computational Materials Science (energy, electronic, environmental catalysis related materials)
+### Researches on Computational Materials Science (Energy, Electronic, Environmental Catalysis Related Materials)
 
-#### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (molecular dynamics simulation, high-throughput calculations, data Mining, material genomics technology, machine learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
+#### For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, first-principles calculations based on density functional theory (DFT) are used, combined with other advanced computational material science methods (Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials on this basis. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 
 
 ### Research Projects
@@ -75,7 +75,7 @@ Molecular dynamics simulations of structural and dynamic properties of molten sa
 ```
 
 
-### International academic conferences.
+### International Academic Conference
 
 ```markdown
 1.Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China. 
