@@ -65,7 +65,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
-28. Shi, X.; Xu, Z.; Han, C.; Shi, R.; Wu, X.; Lu, B.; Zhou, J.; Liang, S., Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage. Nano-Micro Letters 2021, 13 (1), 1-12.
+28. [Shi, X.; Xu, Z.; Han, C.; Shi, R.; Wu, X.; Lu, B.; Zhou, J.; Liang, S., Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage. Nano-Micro Letters 2021, 13 (1), 1-12.](https://link.springer.com/article/10.1007/s40820-020-00534-x)
 27. Xu, Z.; Zhu, H., Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32 (11), 4618-4626.
 26. Xu, Z.; Chen, X.; Chen, R.; Li, X.; Zhu, H., Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Computational Materials 2020, 6 (1), 47.
 25. Wen, H.; He, J.; Hong, J.; Jin, S.; Xu, Z.; Zhu, H.; Liu, J.; Sha, G.; Yue, F.; Dan, Y., Efficient Er/O‐Doped Silicon Light‐Emitting Diodes at Communication Wavelength by Deep Cooling. Advanced Optical Materials 2020, 8 (18), 2000720.
