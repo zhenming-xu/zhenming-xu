@@ -68,7 +68,7 @@
 19.Zheng, H.; Wu, S.; Tian, R.; Xu, Z.; Zhu, H.; Duan, H.; Liu, H., Intrinsic Lithiophilicity of Li–Garnet Electrolytes Enabling High‐Rate Lithium Cycling. Adv. Funct. Mater. 2019, 1906189.
 18.Xu, Z.; Chen, X.; Liu, K.; Chen, R.; Zeng, X.; Zhu, H., Influence of anion charge on Li ion diffusion in a new solid-state electrolyte, Li3LaI6. Chem. Mater. 2019, 31 (18), 7425-7433.
 17.Xu, Z.; Chen, R.; Zhu, H., A Li2CuPS4 superionic conductor: a new sulfide-based solid-state electrolyte. Journal of Materials Chemistry A 2019, 7 (20), 12645-12653.
-16.Xu, Z.-M.; Bo, S.-H.; Zhu, H., LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron–Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte. ACS applied materials & interfaces 2018, 10 (43), 36941-36953.
+16.Xu, Z.; Bo, S.; Zhu, H., LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron–Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte. ACS applied materials & interfaces 2018, 10 (43), 36941-36953.
 15.Xu, Z.; Zhu, H., Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. The Journal of Physical Chemistry C 2018, 122 (26), 14918-14927.
 14.Lv, X.; Han, Z.; Chen, J.; Jiang, L.; Xu, Z.; Liu, Q., First-principles molecular dynamics study of ionic structure and transport properties of LiF-NaF-AlF3 molten salt. Chem. Phys. Lett. 2018, 706, 237-242.
 13.Li, X.; Qiao, Y.; Guo, S.; Xu, Z.; Zhu, H.; Zhang, X.; Yuan, Y.; He, P.; Ishida, M.; Zhou, H., Direct Visualization of the Reversible O2−/O− Redox Process in Li‐Rich Cathode Materials. Adv. Mater. 2018, 30 (14), 1705197.
