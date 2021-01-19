@@ -3,8 +3,8 @@
 Zhenming Xu  
 Ph.D. Student  
 
-University of Michigan–Shanghai Jiao Tong University Joint Institute   
-Shanghai Jiao Tong University  
+University of Michigan–Shanghai Jiao Tong University Joint Institute(UM-SJTU)   
+Shanghai Jiao Tong University(SJTU)   
 800 Dongchuan Road, Shanghai, 200240, China  
 
 ### Research Interests
