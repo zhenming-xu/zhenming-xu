@@ -9,13 +9,13 @@
 ### Research Projects
 
 ```markdown
-High throughput screening Li superionic conductor materials
-First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
-First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
-First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
-Theoretical design of anode materials for alkali-metal ion batteries
-Theoretical design of magnetic and spintronic materials
-Molecular dynamics simulations of structural and dynamic properties of molten salts
+1.High throughput screening Li superionic conductor materials
+2.First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
+3.First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
+4.First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
+5.Theoretical design of anode materials for alkali-metal ion batteries
+6.Theoretical design of magnetic and spintronic materials
+7.Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
 
 
