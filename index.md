@@ -50,13 +50,13 @@ For battery materials, environmental catalytic materials, magnetic materials and
 
 ```markdown
 2021 Outstanding Graduate of SJTU
-2019 CSC Scholarship
-2019 National Scholarship of Graduate 
-2016 National Scholarship of Graduate
+2019 China Scholarship Council(CSC) Scholarship
+2019 National Scholarship of PhD Graduate Student
 2019 Excellent Master Dissertation of Hunan province
 2018 Excellent Master Dissertation of CSU
 2018 Best Poster Presentation Award of the Second International Conference on Energy Storage Materials
 2018 Graduate Excellent Scholarship of SJTU
+2016 National Scholarship of Master Graduate Student
 ```
 
 &nbsp;  
