@@ -6,7 +6,7 @@ Ph.D. Student
 University of Michigan–Shanghai Jiao Tong University Joint Institute(UM-SJTU)   
 Shanghai Jiao Tong University(SJTU)   
 800 Dongchuan Road, Shanghai, 200240, China  
-
+&nbsp;
 ### Research Interests
 
 ### Researches on Computational Materials Science (**Design and Calculation for Energy, Electronic, Environmental Catalysis Related Materials**)
@@ -15,7 +15,7 @@ Shanghai Jiao Tong University(SJTU)
 
 For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, using the first-principles calculations based on density functional theory (DFT), combining with other advanced computational material science methods (**Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.**), to study the relationship between the structure and properties of matter on the electron-atom-molecule-nano-mesoscopic scale, and to carry out theoretical calculations and design of new materials. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 
-
+&nbsp;
 ### Research Projects
 
 ```markdown
@@ -28,8 +28,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 6. Theoretical design of spintronic materials
 7. Molecular dynamics simulations of structural and dynamic properties of molten salts
 ```
-
-
+&nbsp;
 ### Education Background
 
 ```markdown
@@ -43,7 +42,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
                    Bachelor Degree of Metallurgical Engineering 
 ```
 
-
+&nbsp;
 ### Awards/Scholarships/Honors 
 
 ```markdown
@@ -57,7 +56,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 2018 Graduate Excellent Scholarship of SJTU
 ```
 
-
+&nbsp;
 During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including npj Comput. Mater、Chem. Mater、J. Mater. Chem. A、Chem. Eng. J、ACS Appl. Mater. Interfaces、Carbon、Appl. Surf. Sci、J. Alloys Compd、J. Phys. Chem. C、Phys. Chem. Chem. Phys, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10. 
 
 ### Research Publications (†equal contribution,*corresponding author)
@@ -93,7 +92,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 1. Liu, Z.; Peng, W.; Xu, Z.; Shih, K.; Wang, J.; Wang, Z.; Lv, X.; Chen, J.; Li, X., Molybdenum Disulfide-Coated Lithium Vanadium Fluorophosphate Anode: Experiments and First-Principles Calculations. ChemSusChem 2016, 9 (16), 2122-8.
 ```
 
-
+&nbsp;
 ### International Academic Conference
 
 ```markdown
@@ -101,8 +100,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 2. Xu. Z and Zhu. H, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
 1. Xu. Z and Zhu. H, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China.
 ```
-
-
+&nbsp;
 ### Contact
 
 xuzhenming@sjtu.edu.cn  
