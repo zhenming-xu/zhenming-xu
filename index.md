@@ -21,7 +21,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 ### Research Projects
 
 ```markdown
-1. High throughput screening for Li superionic conductor materials
+1. High throughput screening for lithium superionic conductor materials
 2. High throughput screening for optimizing Nd2Fe14B magnetic materials
 2. First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
 3. First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
@@ -65,6 +65,8 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+30. Chen, R.; Xu, Z.; Lin, Y.; Lv, B.; Bo, SH.; Zhu, H., Influence of Structural Distortion and Lattice Dynamics on Li-Ion Diffusion in Li3OCl1–xBrx Superionic Conductors. ACS Applied Energy Materials 2021, 
+29. Wu, Y.; Xu, Z.; Liu, Y.; Chen, J.; Peng, L.; Borkiewicz, OJ.; Zhu, H.; Bo, SH.; Xia, Y., Electronic Structure of Anode Material Li2TiSiO5 and Its Structural Evolution during Lithiation. The Journal of Physical Chemistry C 2021, 
 28. Shi, X.; Xu, Z.; Han, C.; Shi, R.; Wu, X.; Lu, B.; Zhou, J.; Liang, S., Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage. Nano-Micro Letters 2021, 13 (1), 1-12.
 27. Xu, Z.; Zhu, H., Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32 (11), 4618-4626.
 26. Xu, Z.; Chen, X.; Chen, R.; Li, X.; Zhu, H., Anion charge and lattice volume dependent lithium ion migration in compounds with fcc anion sublattices. npj Computational Materials 2020, 6 (1), 47.
@@ -78,7 +80,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 18. Xu, Z.; Chen, X.; Liu, K.; Chen, R.; Zeng, X.; Zhu, H., Influence of anion charge on Li ion diffusion in a new solid-state electrolyte, Li3LaI6. Chem. Mater. 2019, 31 (18), 7425-7433.
 17. Xu, Z.; Chen, R.; Zhu, H., A Li2CuPS4 superionic conductor: a new sulfide-based solid-state electrolyte. Journal of Materials Chemistry A 2019, 7 (20), 12645-12653.
 16. Xu, Z.; Bo, S.; Zhu, H., LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron–Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte. ACS applied materials & interfaces 2018, 10 (43), 36941-36953.
-15. Xu, Z.; Zhu, H., Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. The Journal of Physical Chemistry C 2018, 122 (26), 14918-14927.
+15. Xu, Z.; Zhu, H., Two-dimensional manganese nitride monolayer with room temperature rigid ferromagnetism under strain. The Journal of Physical Chemistry C, 2018, 122 (26), 14918-14927.
 14. Lv, X.; Han, Z.; Chen, J.; Jiang, L.; Xu, Z.; Liu, Q., First-principles molecular dynamics study of ionic structure and transport properties of LiF-NaF-AlF3 molten salt. Chem. Phys. Lett. 2018, 706, 237-242.
 13. Li, X.; Qiao, Y.; Guo, S.; Xu, Z.; Zhu, H.; Zhang, X.; Yuan, Y.; He, P.; Ishida, M.; Zhou, H., Direct Visualization of the Reversible O2-/O- Redox Process in Li‐Rich Cathode Materials. Adv. Mater. 2018, 30 (14), 1705197.
 12. Xu, Z.; Lv, X.; Chen, J.; Jiang, L.; Lai, Y.; Li, J., DFT investigation of capacious, ultrafast and highly conductive hexagonal Cr2C and V2C monolayers as anode materials for high-performance lithium-ion batteries. Physical Chemistry Chemical Physics 2017, 19 (11), 7807-7819.
