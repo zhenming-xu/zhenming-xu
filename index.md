@@ -65,7 +65,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
-30. Chen, R.; Xu, Z.; Lin, Y.; Lv, B.; Bo, SH.; Zhu, H., Influence of Structural Distortion and Lattice Dynamics on Li-Ion Diffusion in Li3OCl1–xBrx Superionic Conductors. ACS Applied Energy Materials 2021, 
+30. Chen, R.; Xu, Z.; Lin, Y.; Lv, B.; Bo, SH.; Zhu, H., Influence of Structural Distortion and Lattice Dynamics on Li-Ion Diffusion in Li3OCl1–xBrx Superionic Conductors. ACS Applied Energy Materials 2021, 4, 2107
 29. Wu, Y.; Xu, Z.; Liu, Y.; Chen, J.; Peng, L.; Borkiewicz, OJ.; Zhu, H.; Bo, SH.; Xia, Y., Electronic Structure of Anode Material Li2TiSiO5 and Its Structural Evolution during Lithiation. The Journal of Physical Chemistry C 2021, 125, 3733
 28. Shi, X.; Xu, Z.; Han, C.; Shi, R.; Wu, X.; Lu, B.; Zhou, J.; Liang, S., Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage. Nano-Micro Letters 2021, 13 (1), 1-12.
 27. Xu, Z.; Zhu, H., Anion charge and lattice volume maps for searching lithium superionic conductors. Chem. Mater. 2020, 32 (11), 4618-4626.
