@@ -1,8 +1,8 @@
 # Welcome to Zhenming's Homepages
 
 &nbsp;  
-Zhenming Xu  
-Ph.D. Student  
+Dr. Zhenming Xu  
+  
 
 University of Michigan–Shanghai Jiao Tong University Joint Institute (UM-SJTU JI)   
 Shanghai Jiao Tong University (SJTU)   
