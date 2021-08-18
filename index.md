@@ -3,11 +3,11 @@
 &nbsp;  
 Dr. Zhenming Xu  
   
-Assistant Professor
+**Assistant Professor**
 
-Jiangsu Key Laboratory of Electrochemical Energy Storage Technologies, \n
-College of Materials Science and Technology, \n
-Nanjing University of Aeronautics and Astronautics
+Jiangsu Key Laboratory of Electrochemical Energy Storage Technologies,     
+College of Materials Science and Technology,      
+Nanjing University of Aeronautics and Astronautics (NUAA)
 
 
 &nbsp;
