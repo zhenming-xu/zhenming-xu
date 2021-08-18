@@ -3,10 +3,12 @@
 &nbsp;  
 Dr. Zhenming Xu  
   
+Assistant Professor
 
-University of Michigan–Shanghai Jiao Tong University Joint Institute (UM-SJTU JI)   
-Shanghai Jiao Tong University (SJTU)   
-800 Dongchuan Road, Shanghai, 200240, China  
+Jiangsu Key Laboratory of Electrochemical Energy Storage Technologies, 
+College of Materials Science and Technology, 
+Nanjing University of Aeronautics and Astronautics
+
 
 &nbsp;
 ### Research Interests
