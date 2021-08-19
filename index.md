@@ -37,7 +37,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 ### Working Experience
 
 ```markdown
-2021.09-now, Nanjing University of Aeronautics and Astronautics (NUAA)
+Sep.2021-now,  Nanjing University of Aeronautics and Astronautics (NUAA)
 ```
                    
 &nbsp;
