@@ -34,6 +34,13 @@ For battery materials, environmental catalytic materials, magnetic materials and
 ```
 
 &nbsp;
+### Working Experience
+
+```markdown
+2021.09-now, Nanjing University of Aeronautics and Astronautics (NUAA)
+```
+                   
+&nbsp;
 ### Education Background
 
 ```markdown
@@ -110,4 +117,4 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 &nbsp;
 ### Contact
 
-xuzhenming@sjtu.edu.cn  
+xuzhenming@nuaa.edu.cn  
