@@ -113,9 +113,9 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### International Academic Conference
 
 ```markdown
-3. **Zhenming Xu** and Hong Zhu, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
-2. **Zhenming Xu** and Hong Zhu, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
-1. **Zhenming Xu** and Hong Zhu, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China.
+3. Zhenming Xu, Hong Zhu, Anion charge dependent lithium ion diffusion in solids, American Physical Society Meeting. May, 2020, Montreal, Canada.
+2. Zhenming Xu, Hong Zhu, Anion charge dependent lithium ion diffusion in solids, The Electrochemical Society Meeting. March, 2020, Denver, USA.
+1. Zhenming Xu, Hong Zhu, LiCrS2 and LiMnS2 Cathodes with Extraordinary Mixed Electron-Ion Conductivities and Favorable Interfacial Compatibilities with Sulfide Electrolyte, The second International Conference on Energy Storage Materials. November, 2018, Shenzhen, China.
 ```
 &nbsp;
 ### Contact
