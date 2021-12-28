@@ -50,7 +50,7 @@ Sep.2021-now,  Nanjing University of Aeronautics and Astronautics (NUAA), Nanjin
                    PhD Degree of Mechanical Engineering
 2014-2017  Central South University (CSU), Changsha, China           
                    Master Degree of Metallurgical Engineering               
-2010-2014  Jiangxi University of Science and Technology, Ganzhou, China            
+2010-2014  Jiangxi University of Science and Technology (JUST), Ganzhou, China            
                    Bachelor Degree of Metallurgical Engineering 
 ```
 
