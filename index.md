@@ -73,9 +73,10 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+34. Xuejun Lai, Zhenming Xu, Xianfeng Yang, Qiongjie Ke, Qingshuai Xu, Zaisheng Wang, Yingying Lu, Yongcai Qiu, Long Cycle Life and High‐Rate Sodium Metal Batteries Enabled by Regulating 3D Frameworks with Artificial Solid‐State Interphases, Advanced Energy Materials, 2022, 12(10), 2103540.
 33. Eva Gil-González, Luhan Ye, Yichao Wang, Zulipiya Shadike, Zhenming Xu, Enyuan Hu, Xin Li, Synergistic effects of chlorine substitution in sulfide electrolyte solid state batteries, Energy Storage Materials, 2022, 45, 484-493.
 32. Wei Zhang, Zhenming Xu, Huangxu Li, Ming Xu, Sha Wang, Zheng Li, Aonan Wang, Liuyun Zhang, Liang He, Shihao Li, Bin Zhu, Zhian Zhang, Yanqing Lai, All-climate and air-stable NASICON-Na2TiV(PO4)3 cathode with three-electron reaction toward high-performance sodium-ion batteries, Chemical Engineering Journal, 2022, 133542. 
-31. Chaohong Guan, Zhenming Xu, Hong Zhu, Xiaojun Lv, Qingsheng Liu, Insights into the mechanism of fluoride adsorption over different crystal phase alumina surfaces, Journal of Hazardous Materials, 423, 127109.
+31. Chaohong Guan, Zhenming Xu, Hong Zhu, Xiaojun Lv, Qingsheng Liu, Insights into the mechanism of fluoride adsorption over different crystal phase alumina surfaces, Journal of Hazardous Materials, 2021, 423, 127109.
 30. Ronghan Chen, Zhenming Xu, Yuechuan Lin, Buyao Lv, Shou-Hang Bo, Hong Zhu, Influence of Structural Distortion and Lattice Dynamics on Li-Ion Diffusion in Li3OCl1–xBrx Superionic Conductors, ACS Applied Energy Materials, 2021, 4, 2107.
 29. Yifan Wu, Zhenming Xu, Yao Liu, Junchao Chen, Luming Peng, Olaf J Borkiewicz, Hong Zhu, Shou-Hang Bo, Yongyao Xia, Electronic Structure of Anode Material Li2TiSiO5 and Its Structural Evolution during Lithiation, The Journal of Physical Chemistry C, 2021, 125, 3733.
 28. Xiaodong Shi, Zhenming Xu, Cheng Han, Runze Shi, Xianwen Wu, Bingan Lu, Jiang Zhou, Shuquan Liang, Highly Dispersed Cobalt Nanoparticles Embedded in Nitrogen-Doped Graphitized Carbon for Fast and Durable Potassium Storage, Nano-Micro Letters, 2021, 13, 1-12.
