@@ -73,6 +73,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+35. Wei Zhang, Yulun Wu, Zhenming Xu*,Huangxu Li, Ming Xu, Jianwei Li, Yuhang Dai, Wei Zong, Ruwei Chen, Liang He, Zhian Zhang*, Dan J. L. Brett, Guanjie He*, Yanqing Lai*, Ivan P. Parkin, Rationally Designed Sodium Chromium Vanadium Phosphate Cathodes with Multi-Electron Reaction for Fast-Charging Sodium-Ion Batteries. Advanced Energy Materials, 2022, 2201065
 34. Xuejun Lai, Zhenming Xu, Xianfeng Yang, Qiongjie Ke, Qingshuai Xu, Zaisheng Wang, Yingying Lu, Yongcai Qiu, Long Cycle Life and High‐Rate Sodium Metal Batteries Enabled by Regulating 3D Frameworks with Artificial Solid‐State Interphases, Advanced Energy Materials, 2022, 12(10), 2103540.
 33. Eva Gil-González, Luhan Ye, Yichao Wang, Zulipiya Shadike, Zhenming Xu, Enyuan Hu, Xin Li, Synergistic effects of chlorine substitution in sulfide electrolyte solid state batteries, Energy Storage Materials, 2022, 45, 484-493.
 32. Wei Zhang, Zhenming Xu, Huangxu Li, Ming Xu, Sha Wang, Zheng Li, Aonan Wang, Liuyun Zhang, Liang He, Shihao Li, Bin Zhu, Zhian Zhang, Yanqing Lai, All-climate and air-stable NASICON-Na2TiV(PO4)3 cathode with three-electron reaction toward high-performance sodium-ion batteries, Chemical Engineering Journal, 2022, 133542. 
