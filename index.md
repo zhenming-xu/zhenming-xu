@@ -73,6 +73,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+40. Wuliang Feng, Jiaming Hu, Guannan Qian, Zhenming Xu, Guibin Zan, Yijin Liu, Fei Wang, Chunsheng Wang and Yongyao Xia, Stabilization of garnet/Li interphase by diluting the electronic conductor, 2022, 8(42), eadd8972.
 39. Zhenming Xu, Xi Chen, Hong Zhu, Xin Li, Anharmonic cation-anion coupling dynamics assisted lithium-ion diffusion in sulfide solid electrolytes, Advanced Materials, 2022, 
 38. Yang Zhou, Hao Tong*, Yuan Wu, Xudong Chen, Cunqi Wu, Zhenming Xu*, Laifa Shen, and Xiaogang Zhang*, A Dendrite-Free Zn Anode Co-modified with In and ZnF2 for Long-Life Zn-Ion Capacitors, ACS applied materials & interfaces, 2022, 
 37. Lingjun Wu†, Zhenming Xu†, Zixuan Wang, Zijian Chen, Zhichao Huang, Chao Peng, Xiangdong Pei, Xiangguo Li, Jonathan Mailoa, Chang-yu Hsieh, Tao Wu, Xue-feng Yu, Haitao Zhao, Machine learning accelerated carbon neutrality research using big data - from predictive models to interatomic potentials. Science China Technological Sciences, 2022, 65, https://doi.org/10.1007/s11431-022-2095-7.
