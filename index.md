@@ -54,7 +54,7 @@ Sep.2021-now,  Nanjing University of Aeronautics and Astronautics (NUAA), Nanjin
 ```
 
 &nbsp;  
-During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including *Adv. Mater., Adv. Energy Mater., npj Comput. Mater., Chem. Mater., J. Mater. Chem. A, Chem. Eng. J., ACS Appl. Mater. Interfaces, Carbon, Appl. Surf. Sci., J. Alloys Compd, J. Phys. Chem. C, Phys. Chem. Chem. Phys.*, etc. 14 of them are JCR Q1, and 3 of them with impact factors > 10. 
+During the study of master's and doctoral degrees, as the first author ((supervisor as the first author (student as the second author), co-first author, corresponding author) published more than 19 papers in the international authoritative journals, including *Adv. Mater., Adv. Energy Mater., npj Comput. Mater., Chem. Mater., J. Mater. Chem. A, Chem. Eng. J., ACS Appl. Mater. Interfaces, Carbon, Appl. Surf. Sci., J. Alloys Compd, J. Phys. Chem. C, Phys. Chem. Chem. Phys.*, etc. 
 
 ### Research Publications (†equal contribution,*corresponding author)
 
