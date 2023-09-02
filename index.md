@@ -73,6 +73,12 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+46. Zhenming Xu. Molecular dynamics simulation unveiling anion charge and lattice volume dependent Li ion diffusion in lithium compounds. Computational Materials Science, 2023, 228, 112372.
+45. Xiaodong Shi †, Zhenming Xu†, Yan Tang, Yunxiang Zhao, Bingan Lu, and Jiang Zhou. Nitrogen/phosphorus co-doped carbon decorated with metallic zinc for high-performance potassium-ion batteries. Applied Physics Letters, 2023, 123(4), 041903.
+44. Zhenming Xu, Huiyu Duan, Zhi Dou, Mingbo Zheng, Yixi Lin, Yinghui Xia, Haitao Zhao, and Yongyao Xia. Machine learning molecular dynamics simulation identifying weakly negative effect of polyanion rotation on Li-ion migration. npj Computational Materials, 2023, 9, 105.
+43. Zhenming Xu, Junwu Tian, Zhi Dou, Mingbo Zheng, Yixi Lin, Huiyu Duan, Hong Zhu, and Yongyao Xia. Computational Understandings of Cation Configuration-Dependent Redox Activity and Oxygen Dimerization in Lithium-Rich Manganese-Based Layered Cathodes. ACS Applied Energy Materials, 2023, 6(11), 6006
+42. Wei Zhang, Yulun Wu, Yuhang Dai, Zhenming Xu*, Liang He, Zheng Li, Shihao Li et al. “Mn-locking” effect by anionic coordination manipulation stabilizing Mn-rich phosphate cathodes. Chemical Science, 2023, 14, 8662-8671.
+41. Xudong Chen, Yuan Wu, Yang Zhou, Zhenming Xu*, Cunqi Wu, Lei Li, Cheng Li, Xiaogang Zhang, and Hao Tong. Preparation of sulfur vacancy modified NiCo2S4@ NiCoS2 core-shell electrode material and its application in asymmetric supercapacitors. Electrochimica Acta, 2023, 454, 142376.
 40. Wuliang Feng, Jiaming Hu, Guannan Qian, Zhenming Xu, Guibin Zan, Yijin Liu, Fei Wang, Chunsheng Wang and Yongyao Xia, Stabilization of garnet/Li interphase by diluting the electronic conductor, Science Advance, 2022, 8(42), eadd8972.
 39. Zhenming Xu, Xi Chen, Hong Zhu, Xin Li, Anharmonic cation-anion coupling dynamics assisted lithium-ion diffusion in sulfide solid electrolytes, Advanced Materials, 2022, 34, 2207411.
 38. Yang Zhou, Hao Tong*, Yuan Wu, Xudong Chen, Cunqi Wu, Zhenming Xu*, Laifa Shen, and Xiaogang Zhang*, A Dendrite-Free Zn Anode Co-modified with In and ZnF2 for Long-Life Zn-Ion Capacitors, ACS applied materials & interfaces, 2022, 14, 46665.
