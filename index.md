@@ -73,7 +73,9 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
-46. Zhenming Xu. Molecular dynamics simulation unveiling anion charge and lattice volume dependent Li ion diffusion in lithium compounds. Computational Materials Science, 2023, 228, 112372.
+48. 许真铭*, 刘庆生, 陈江安. Materials Studio软件在计算化学和计算材料学课程教学中的应用. 大学化学, 2023, 2305082. (https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202305082)
+47. 窦智, 段慧宇, 林奕希, 夏颖慧, 郑明波*, 许真铭*. 固体电解质界面层锂合金相的高通量筛选与界面离子输运研究. 物理化学学报, 2024, 2305039. (https://www.whxb.pku.edu.cn/CN/10.3866/PKU.WHXB202305039)
+46. Zhenming Xu*. Molecular dynamics simulation unveiling anion charge and lattice volume dependent Li ion diffusion in lithium compounds. Computational Materials Science, 2023, 228, 112372.
 45. Xiaodong Shi†, Zhenming Xu†, Yan Tang, Yunxiang Zhao, Bingan Lu, and Jiang Zhou. Nitrogen/phosphorus co-doped carbon decorated with metallic zinc for high-performance potassium-ion batteries. Applied Physics Letters, 2023, 123(4), 041903.
 44. Zhenming Xu, Huiyu Duan, Zhi Dou, Mingbo Zheng, Yixi Lin, Yinghui Xia, Haitao Zhao, and Yongyao Xia. Machine learning molecular dynamics simulation identifying weakly negative effect of polyanion rotation on Li-ion migration. npj Computational Materials, 2023, 9, 105.
 43. Zhenming Xu, Junwu Tian, Zhi Dou, Mingbo Zheng, Yixi Lin, Huiyu Duan, Hong Zhu, and Yongyao Xia. Computational Understandings of Cation Configuration-Dependent Redox Activity and Oxygen Dimerization in Lithium-Rich Manganese-Based Layered Cathodes. ACS Applied Energy Materials, 2023, 6(11), 6006
