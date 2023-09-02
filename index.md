@@ -19,20 +19,6 @@ Nanjing University of Aeronautics and Astronautics (NUAA)
 For battery materials, environmental catalytic materials, magnetic materials and metallurgical molten salts, using the first-principles calculations based on density functional theory (DFT), combining with other advanced computational material science methods (**Molecular Dynamics Simulation, High-Throughput Calculations, Data Mining, Material Genomics Technology, Machine Learning, etc.**), to study the relationship between the structure and properties of matter at the electronic-atomic-molecular-mesoscopic scale, and to carry out theoretical calculations and design of new materials. Cooperate with experimenters in the battery field to help explain experimental phenomena through theoretical calculations
 
 &nbsp;
-### Research Projects
-
-```markdown
-1. High throughput screening for lithium superionic conductor materials
-2. High throughput screening for optimizing Nd2Fe14B magnetic materials
-2. First-principle calculations of the anion charge dependent Li ion transport in bulk and electrode/electrolyte interface of Li-ion batteries
-3. First-principle calculations of the cation arrangement dependent O2−/O− redox process in Li-rich Mn-based cathode materials
-4. First-principle calculations of Hg catalyzed oxidation mechanism on MoS2 surface
-5. Theoretical design of anode materials for alkali-metal ion batteries
-6. Theoretical design of spintronic materials
-7. Molecular dynamics simulations of structural and dynamic properties of molten salts
-```
-
-&nbsp;
 ### Working Experience
 
 ```markdown
