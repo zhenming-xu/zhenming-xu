@@ -60,7 +60,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 
 ```markdown
 50. 许真铭*, 郑明波, 刘振辉, 刘庆生. 基于项目式教学的计算化学和计算材料学实验设计——锂离子电池有机电解液分子动力学模拟. 化学教育（已接收）.
-49. 许真铭*, 郑明波, 刘振辉, 陈铎, 刘庆生. 基于项目式教学的计算材料学实验设计——锂离子电池正极材料LiFePO4第一性原理计算. 大学化学, 2023, 2307022.
+49. 许真铭*, 郑明波, 刘振辉, 陈铎, 刘庆生. 基于项目式教学的计算材料学实验设计——锂离子电池正极材料LiFePO4第一性原理计算. 大学化学, 2023, 2307022. (https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202307022)
 48. 许真铭*, 刘庆生, 陈江安. Materials Studio软件在计算化学和计算材料学课程教学中的应用. 大学化学, 2023, 2305082. (https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202305082)
 47. 窦智, 段慧宇, 林奕希, 夏颖慧, 郑明波*, 许真铭*. 固体电解质界面层锂合金相的高通量筛选与界面离子输运研究. 物理化学学报, 2024, 2305039. (https://www.whxb.pku.edu.cn/CN/10.3866/PKU.WHXB202305039)
 46. Zhenming Xu*. Molecular dynamics simulation unveiling anion charge and lattice volume dependent Li ion diffusion in lithium compounds. Computational Materials Science, 2023, 228, 112372.
