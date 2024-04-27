@@ -59,6 +59,7 @@ During the study of master's and doctoral degrees, as the first author ((supervi
 ### Research Publications (†equal contribution,*corresponding author)
 
 ```markdown
+51. Zhenming Xu, Can Large Lattice Volume Always Facilitate Ion Diffusion in Solids? Energy Storage Materials, 2024, 69, 103433.
 50. 许真铭*, 郑明波, 刘振辉, 刘庆生. 基于项目式教学的计算化学和计算材料学实验设计——锂离子电池有机电解液分子动力学模拟. 化学教育, 2024, 45(6), 91-98.
 49. 许真铭*, 郑明波, 刘振辉, 陈铎, 刘庆生. 基于项目式教学的计算材料学实验设计——锂离子电池正极材料LiFePO4第一性原理计算. 大学化学, 2024, 39(4), 140-148.
 48. 许真铭*, 刘庆生, 陈江安. Materials Studio软件在计算化学和计算材料学课程教学中的应用. 大学化学, 2024, 39(1): 332-339.
