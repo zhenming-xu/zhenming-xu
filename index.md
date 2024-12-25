@@ -23,7 +23,7 @@ For battery materials, environmental catalytic materials, magnetic materials and
 
 ```markdown
 Sep.2021-Dec.2024, Assistant Professor, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
-Dec.2024-now, Associate Professor, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
+Dec.2024-Now, Associate Professor, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
 ```
                    
 &nbsp;
