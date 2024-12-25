@@ -3,7 +3,7 @@
 &nbsp;  
 Dr. Zhenming Xu  
   
-**Assistant Professor**
+**Associate Professor**
     
 College of Materials Science and Technology,      
 Nanjing University of Aeronautics and Astronautics (NUAA)
@@ -22,7 +22,8 @@ For battery materials, environmental catalytic materials, magnetic materials and
 ### Working Experience
 
 ```markdown
-Sep.2021-now,  Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
+Sep.2021-Dec.2024, Assistant Professor, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
+Dec.2024-now, Associate Professor, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China
 ```
                    
 &nbsp;
